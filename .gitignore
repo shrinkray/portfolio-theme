@@ -103,10 +103,11 @@ wp-content/plugins/simple-local-avatars
 /wp-content/plugins/akismet*
 
 
-dist
-node_modules
-npm-debug.log
-vendor
+/wp-content/themes/portfolio-theme/dist
+/wp-content/themes/genesis/*
+/wp-content/themes/portfolio-theme/node_modules
+/wp-content/themes/portfolio-theme/npm-debug.log
+/wp-content/themes/portfolio-theme/vendor
 
 # large/disallowed file types
 # a CDN should be used for these
