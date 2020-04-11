@@ -1,3 +1,6 @@
+# WP Install Root
+# Ver: 1.0.0
+# 4/2020 GRM
 *~
 .DS_Store
 .idea*
@@ -85,6 +88,8 @@ wp-content/plugins/simple-local-avatars
 /wp-admin
 /wp-includes
 /wp-content/index.php
+
+# themes
 /wp-content/themes/twentyten
 /wp-content/themes/twentyeleven
 /wp-content/themes/twentytwelve
@@ -102,8 +107,10 @@ wp-content/plugins/simple-local-avatars
 /wp-content/plugins/index.php
 /wp-content/plugins/akismet*
 
+# starter theme parent
 /wp-content/themes/genesis/*
 
+#
 /wp-content/themes/portfolio-theme/dist
 /wp-content/themes/portfolio-theme/node_modules
 /wp-content/themes/portfolio-theme/npm-debug.log
