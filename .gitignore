@@ -102,9 +102,9 @@ wp-content/plugins/simple-local-avatars
 /wp-content/plugins/index.php
 /wp-content/plugins/akismet*
 
+/wp-content/themes/genesis/*
 
 /wp-content/themes/portfolio-theme/dist
-/wp-content/themes/genesis/*
 /wp-content/themes/portfolio-theme/node_modules
 /wp-content/themes/portfolio-theme/npm-debug.log
 /wp-content/themes/portfolio-theme/vendor
