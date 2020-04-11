@@ -1,0 +1,11 @@
+{
+    "name": "gmiller/portfolio-theme",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Greg",
+            "email": "hello@gregmiller.io"
+        }
+    ],
+    "require": {}
+}
