@@ -1,0 +1,53 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+
+.lgx-update {
+    display: inline-block;
+    line-height: 19px;
+    padding: 11px 15px;
+    font-size: 14px;
+    text-align: left;
+    margin: 10px 0 20px;
+    background-color: #fff;
+    border-left: 4px solid #34a853;
+    -webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+}
+
+.lgx-update strong {
+    font-weight: 400;
+}
+
+#poststuff .lgx-settings-inside {
+    padding: 25px ;
+}
+
+
+#poststuff .lgx-settings-forms h2{
+    display: none;
+}
+
+#poststuff .lgx-settings-nav .nav-tab-wrapper {
+    margin: 0;
+    padding: 0;
+}
+#poststuff .lgx-settings-nav .nav-tab-wrapper .nav-tab {
+    margin-left: 0;
+}
+
+.lgx-settings-forms .inside {
+    padding: 0;
+}
+
+.lgx-settings-nav  .nav-tab-active, .lgx-settings-nav  .nav-tab-active:focus:active {
+    background: #fff;
+    color: #34a853;
+}
+
+/*
+.lgx-settings-nav  .nav-tab-active:focus, .lgx-settings-nav  .nav-tab-active:hover {
+    color: #008299;
+}*/
