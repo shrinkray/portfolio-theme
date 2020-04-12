@@ -8,8 +8,19 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "production": ""
+    "production": "",
+    "bootstrap": "wpackio-scripts bootstrap",
+    "build": "wpackio-scripts build",
+    "start": "wpackio-scripts start",
+    "archive": "wpackio-scripts pack"
   },
   "author": "Greg Miller",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@wpackio/scripts": "^4.4.1",
+    "node-sass": "^4.13.1"
+  },
+  "dependencies": {
+    "@wpackio/entrypoint": "^4.4.1"
+  }
 }
